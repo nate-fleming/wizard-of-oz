@@ -48,6 +48,10 @@ nav a:hover {
     text-align: left;
 }
 
+blockquote {
+    margin: 2em;
+}
+
 .section-img {
     margin: 0 auto;
     width: 100%;
